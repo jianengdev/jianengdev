@@ -1,6 +1,6 @@
 # Hi, I'm Jianeng 👋
 
-Full-stack engineer, Valencia-based autónomo. I build AI-native products end to end — schema, API, UI, deploy, and talking to the people who use them. ~3 years shipping in startups, ~5 years building.
+Full-stack engineer, Valencia-based autónomo. I build AI-native products end to end — schema, API, UI, deploy, and talking to the people who use them. ~5 years building, ~3 years shipping in startups, 
 
 I build software that removes tedious work so we can all focus on what we genuinely care about
  
